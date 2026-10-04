@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hallo nama saya pakis
+=======
+Halo nama saya Mugiri
+Max verstappen goat
+>>>>>>> f9354913970e0af449e36cb836d737402f9b980c
